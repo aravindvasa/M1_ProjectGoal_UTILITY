@@ -12,5 +12,11 @@
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/aravindvasa/M1_ProjectGoal_UTILITY/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/aravindvasa/M1_ProjectGoal_UTILITY/actions/workflows/Cppcheck.yml)
 
+![Code Quality Score](https://api.codiga.io/project/31241/score/svg)
+
+![Code Grade](https://api.codiga.io/project/31241/status/svg)
+
+
+
 
 #M1_ProjectGoal_Utility
